@@ -3,7 +3,3 @@ Bla Bla
 code []
 devops  
 devsecops
-
-site by site
-with content 
-----------------------
